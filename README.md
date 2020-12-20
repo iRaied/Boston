@@ -13,3 +13,7 @@ This code runs with Python version 3.* and requires some libraries, to install t
 `pip install`
 
 You will need to download Boston & Seattle Dataset from https://www.kaggle.com/airbnb/boston and https://www.kaggle.com/airbnb/seattle
+
+## Project Motivation
+This is an Udacity Nanodegree Project. I was interested in using Kaggle AirBnB Data to better understand:
+<li> What are the most features correlated to price
