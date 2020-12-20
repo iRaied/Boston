@@ -28,3 +28,7 @@ This is an Udacity Nanodegree Project. I was interested in using Kaggle AirBnB D
     
 ## Results
 The main findings of the code can be found at the post available here: https://iraied.medium.com/boston-seattle-airbnb-homes-8efec6101c14
+
+## Licensing, Authors, and Acknowledgements
+No licensing required.
+This analysis done by me and you are welcome to share it.
