@@ -20,3 +20,8 @@ This is an Udacity Nanodegree Project. I was interested in using Kaggle AirBnB D
 <li> How well can we predict weather the review is positive or negative from the review text
 <li> Understand how much AirBnB homes are earning in certain time frames and areas
 <li> Comparing rates between the two cities
+  
+  ## File Description
+  <li> Solution_Boston_Prices.ipynb: Jupyter Notebook file contains the data analysis.
+  <li> listings.csv: Boston Dataset.
+  <li> listings_column_names.csv: Description of each column.
