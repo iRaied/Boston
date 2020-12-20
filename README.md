@@ -11,3 +11,5 @@ predicting home prices for Boston in AirBnB
 ## Installation
 This code runs with Python version 3.* and requires some libraries, to install these libraries you will need to execute:
 `pip install`
+
+You will need to download Boston & Seattle Dataset from https://www.kaggle.com/airbnb/boston and https://www.kaggle.com/airbnb/seattle
