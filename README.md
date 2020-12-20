@@ -10,4 +10,4 @@ predicting home prices for Boston in AirBnB
 
 ## Installation
 This code runs with Python version 3.* and requires some libraries, to install these libraries you will need to execute:
-`pip install'
+`pip install`
