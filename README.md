@@ -17,3 +17,6 @@ You will need to download Boston & Seattle Dataset from https://www.kaggle.com/a
 ## Project Motivation
 This is an Udacity Nanodegree Project. I was interested in using Kaggle AirBnB Data to better understand:
 <li> What are the most features correlated to price
+<li> How well can we predict weather the review is positive or negative from the review text
+<li> Understand how much AirBnB homes are earning in certain time frames and areas
+<li> Comparing rates between the two cities
